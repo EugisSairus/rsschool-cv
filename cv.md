@@ -26,7 +26,7 @@ I know that I can discover my new abilities in information technology.
 ## **Languages:**
 
 **English:** B2 (Upper-Intermediate) <br>
-**Russian:** C2 (Proficiency)
+**Russian:** C2 (Proficiency) <br>
 **Lithuanian:** Native <br>
 
 ## **Code Examples:**
