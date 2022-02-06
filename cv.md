@@ -22,7 +22,6 @@ I know that I can discover my new abilities in information technology.
 - HTML
 - CSS
 - Illustrator
-- PS
 
 ## **Languages:**
 
